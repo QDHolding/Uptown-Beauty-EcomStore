@@ -1,6 +1,6 @@
-@import "base";
-@import "components";
-@import "utilities";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 @layer base {
   :root {
